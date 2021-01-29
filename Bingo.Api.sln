@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bingo.Api", "Bingo.Api\Bingo.Api.csproj", "{28F695EB-5FEC-4B06-8F6A-3374AA7F7202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28F695EB-5FEC-4B06-8F6A-3374AA7F7202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F695EB-5FEC-4B06-8F6A-3374AA7F7202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F695EB-5FEC-4B06-8F6A-3374AA7F7202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F695EB-5FEC-4B06-8F6A-3374AA7F7202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0539854-CA39-4647-9965-9F6A0097EBD2}
+	EndGlobalSection
+EndGlobal
